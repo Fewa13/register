@@ -1,7 +1,8 @@
 {
   "description": "ASTRIFT FRONT browser multiplayer FPS",
   "owner": {
-    "username": "Fewa13"
+    "username": "Fewa13",
+    "github": "Fewa13"
   },
   "record": {
     "CNAME": "astrift-front.fewa3729.workers.dev"
